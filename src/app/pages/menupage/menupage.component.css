@@ -1,0 +1,17 @@
+form
+{
+    margin-top: 30px;
+    width: 50%;
+    
+}
+img
+{
+    border-radius: 6px;
+    padding: 10px 20px;
+    width: 100%;
+    object-fit: cover;
+    height: 500px;
+}
+.btn:hover{
+    background-color:green ;
+}
